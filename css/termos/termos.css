@@ -5,13 +5,14 @@
 
 .termos h2 {
   font-weight: 600;
+  margin-bottom: 20px;
 }
 
 .termos p + h2 {
   margin-top: 40px;
 } /* todo h2 que venha após o p*/
 
-.temos p {
+.termos p {
   max-width: 75ch;
   margin-bottom: 24px;
 }
